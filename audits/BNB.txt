@@ -1,0 +1,6 @@
+Audit of BNB.sol
+
+1. Good use of Safemath library
+2. Straight forward implementation of ERC20 - could have used a library.
+3. Could have used Ownable library.
+4. Could upgrade throw to be require
